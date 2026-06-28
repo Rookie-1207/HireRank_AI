@@ -1,0 +1,2 @@
+# No external runtime dependencies required for the ranking engine.
+# Optional dashboard can use Streamlit if desired, but ranking is pure Python stdlib.
